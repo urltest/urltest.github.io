@@ -1,1 +1,4 @@
-alert("\u8fd9\u662f\u6765\u81ea\u5916\u90e8\u004a\u0053")
+var a=function(){
+javascript:alert(document.cookie);
+}
+a();
