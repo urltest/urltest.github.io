@@ -1,4 +1,4 @@
-var a=function(){
-javascript:alert(document.cookie);
-}
-a();
+//var a=function(){
+//javascript:alert(document.cookie);
+//}
+//a();
